@@ -51,6 +51,6 @@ If you're building a company where software meets physical constraints, let's co
 
 - 🌐 **Showcase & Portfolio:** [Insert your Lovable website link here]
 - 💼 **LinkedIn:** https://www.linkedin.com/in/pawelradziszewski/
-- 📅 **Book a Call:** [Insert your Calendly link here]
+- 📅 **Book a Call:** https://calendly.com/pawel-r-radziszewski/30min
 
 > *"Hardware is hard. Building the software for it doesn't have to be."*
