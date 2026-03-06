@@ -15,6 +15,11 @@ I build software for the physical world. I bridge the gap between rigorous hardw
 
 ### 🛠️ The "Bits & Atoms" Stack
 
+**Scientific Machine Learning (SciML) & Advanced AI:**
+- **Physics-Informed AI:** PINNs (Physics-Informed Neural Networks), Neural Operators, Neural ODEs
+- **Core Frameworks:** JAX, PyTorch
+- **Use Cases:** Virtual/Soft Sensors for hardware, extremely fast physics simulations replacing traditional CFD/FEA.
+
 **AI-Accelerated Engineering:**
 - **Orchestration:** Claude 3.5 Sonnet, DeepSeek, Cursor, MCP (Model Context Protocol)
 - **Workflows:** Multi-agent research pipelines, Automated Code Generation, RAG
