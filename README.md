@@ -21,13 +21,13 @@ I build software for the physical world. I bridge the gap between rigorous hardw
 
 **Cloud & Full-Stack:**
 - **Core:** TypeScript, Python, Next.js (App Router), React
-- **Backend & Data:** Supabase, PostgreSQL, Vercel, MQTT (IoT Telemetry)
+- **Backend & Data:** Supabase, PostgreSQL, Prisma ORM, Vercel
 - **Architecture:** Serverless, Edge Computing, Defensive Programming for Hardware data
 
-**Hard Tech / R&D Domain Expertise:**
-- Hardware-to-Software interfaces (Sensors, Telemetry, Control Systems)
-- Rapid Prototyping (PoC in 4 weeks)
-- R&D Budgeting & Tech Debt Mitigation
+**SpaceTech, IoT & Hard Tech Capabilities:**
+- **Telemetry & Time-Series:** TimescaleDB, InfluxDB, MQTT, WebSockets, gRPC
+- **Spatial & Visualization:** PostGIS, CesiumJS / WebGL (Orbital & 3D tracking)
+- **Domain Expertise:** Hardware-to-Software interfaces, Sensor Fusion, R&D Tech Debt Mitigation
 
 ---
 
