@@ -45,7 +45,7 @@ Instead of hiring a massive software team before achieving product-market fit, f
 If you're building a company where software meets physical constraints, let's connect.
 
 - 🌐 **Showcase & Portfolio:** [Insert your Lovable website link here]
-- 💼 **LinkedIn:** [Insert your LinkedIn profile link here]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/pawelradziszewski/
 - 📅 **Book a Call:** [Insert your Calendly link here]
 
 > *"Hardware is hard. Building the software for it doesn't have to be."*
