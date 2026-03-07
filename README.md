@@ -1,56 +1,48 @@
 # Hi, I'm Paweł. 👋
-### Former Deep-Tech CTO. AI-Native Builder.
 
-I build software for the physical world. I bridge the gap between rigorous hardware engineering and the extreme velocity of AI-native development.
+### Second-time founder. Former Deep-Tech CTO. I build the intelligence layer for physical systems.
 
----
+I spent 9 years turning a SpaceX Hyperloop competition entry into a 100M€ rail deep-tech company — from 0 to 60 engineers, €15M+ R&D budget, and Europe's first passive magnetic levitation track. Then I sold my shares and started over.
 
-### 🚀 The TL;DR
-- **Background:** 12+ years in Hard Tech & R&D. Former Co-founder & CTO of a deep-tech mobility startup (Hyperloop technology, peak valuation €108M). 
-- **Scale:** Managed €15M+ in R&D budgets, led teams of 45+ multidisciplinary engineers.
-- **Milestone:** Successfully built and tested the 1st passive magnetic levitation track in Europe. I know firsthand that physics is unforgiving and hardware is hard.
-- **Current Focus:** I use modern LLM orchestration (Claude Code, Cursor) and full-stack architecture (Vercel, Supabase, Python) to drastically reduce R&D cycles. I help Deep Tech startups build production-ready PoCs and dashboards in weeks, not months.
+Now I'm building again — applying AI-native development to hard problems in energy and industrial systems: my own ventures, select collaborations and the occasional research sprint that saves someone a few million.
 
 ---
 
-### 🛠️ The "Bits & Atoms" Stack
+### 🎯 What I actually do
 
-**Scientific Machine Learning (SciML) & Advanced AI:**
-- **Physics-Informed AI:** PINNs (Physics-Informed Neural Networks), Neural Operators, Neural ODEs
-- **Core Frameworks:** JAX, PyTorch
-- **Use Cases:** Virtual/Soft Sensors for hardware, extremely fast physics simulations replacing traditional CFD/FEA.
+I'm a solo founder combining systems engineering with AI-native development — applying the same first-principles thinking I used to build hardware for extreme environments (Hyperloop, magnetic levitation) to software for physical systems.
+My background spans aerospace engineering, control systems, power electronics and safety-critical system design. 
 
-**AI-Accelerated Engineering:**
-- **Orchestration:** Claude 3.5 Sonnet, DeepSeek, Cursor, MCP (Model Context Protocol)
-- **Workflows:** Multi-agent research pipelines, Automated Code Generation, RAG
+What I've learned: the hardest problems in deep tech aren't the physics — they're the intelligence layer that sits on top of it.
 
-**Cloud & Full-Stack:**
-- **Core:** TypeScript, Python, Next.js (App Router), React
-- **Backend & Data:** Supabase, PostgreSQL, Prisma ORM, Vercel
-- **Architecture:** Serverless, Edge Computing, Defensive Programming for Hardware data
-
-**SpaceTech, IoT & Hard Tech Capabilities:**
-- **Telemetry & Time-Series:** TimescaleDB, InfluxDB, MQTT, WebSockets, gRPC
-- **Spatial & Visualization:** PostGIS, CesiumJS / WebGL (Orbital & 3D tracking)
-- **Domain Expertise:** Hardware-to-Software interfaces, Sensor Fusion, R&D Tech Debt Mitigation
+That gap is where I work.
 
 ---
 
-### 🤝 What I do now
-I operate as a highly specialized technical partner for early-stage (Seed / Series A) Hard Tech startups (ClimateTech, SpaceTech, Advanced Manufacturing, IoT). 
+### 🛠️ Stack (what I actually use)
 
-Instead of hiring a massive software team before achieving product-market fit, founders bring me in to:
-1. **Architect** the data pipeline between their hardware and the cloud.
-2. **Build** a functional MVP/PoC in 4 weeks using an AI-native stack.
-3. **De-risk** their technology roadmap for the next funding round.
+**Physics-aware AI**
+- PINNs (Physics-Informed Neural Networks), Neural ODEs
+- JAX, PyTorch
+- *Virtual sensors, fast physics simulation, replacing classical FEA/CFD where it makes sense*
+
+**AI-native development**
+- Claude Code, Cursor, MCP (Model Context Protocol)
+- Multi-agent research pipelines, automated code generation
+
+**Full-stack (enough to ship)**
+- Python, TypeScript, Next.js, Supabase
+- MQTT, WebSockets, TimescaleDB — for real-time hardware data pipelines
 
 ---
 
 ### 📫 Let's talk
-If you're building a company where software meets physical constraints, let's connect.
 
-- 🌐 **Showcase & Portfolio:** [Insert your Lovable website link here]
-- 💼 **LinkedIn:** https://www.linkedin.com/in/pawelradziszewski/
-- 📅 **Book a Call:** https://calendly.com/pawel-r-radziszewski/30min
+If you're building where software meets physical constraints — energy, robotics, industrial automation — I want to hear about it.
 
-> *"Hardware is hard. Building the software for it doesn't have to be."*
+- 💼 **LinkedIn:** [pawelradziszewski](https://www.linkedin.com/in/pawelradziszewski/)
+- 📅 **Book a call:** [Calendly](https://calendly.com/pawel-r-radziszewski/30min)
+
+---
+
+> *Hardware is hard. The software for it doesn't have to be.*
