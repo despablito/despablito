@@ -41,7 +41,6 @@ That gap is where I work.
 If you're building where software meets physical constraints — energy, robotics, industrial automation — I want to hear about it.
 
 - 💼 **LinkedIn:** [pawelradziszewski](https://www.linkedin.com/in/pawelradziszewski/)
-- 📅 **Book a call:** [Calendly](https://calendly.com/pawel-r-radziszewski/30min)
 
 ---
 
