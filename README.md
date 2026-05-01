@@ -4,7 +4,7 @@
 
 I spent 9 years turning a SpaceX Hyperloop competition entry into a 100M€ rail deep-tech company — from 0 to 60 engineers, €15M+ R&D budget and Europe's first passive magnetic levitation track. Then I sold my shares and started over.
 
-Now I'm building again — applying AI-native development to hard problems in energy and industrial systems: my own ventures, selected collaborations and the occasional research sprint that saves someone a few million.
+Now I'm building again — applying AI-native development to hard problems in energy, defense and industrial systems: my own ventures, selected collaborations and the occasional research sprint that saves someone a few million.
 
 ---
 
