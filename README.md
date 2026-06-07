@@ -21,6 +21,11 @@ That gap is where I work.
 
 ### 🛠️ Stack (what I actually use)
 
+**Engineering foundation** (the domain knowledge under everything else)
+- Aerospace & space engineering — flight dynamics, guidance / navigation / control
+- Control systems, power electronics, safety-critical system design
+- *First-principles judgment for hardware in extreme environments — the lens that makes the AI above actually trustworthy*
+
 **Physics-aware AI**
 - PINNs (Physics-Informed Neural Networks), Neural ODEs
 - JAX, PyTorch
