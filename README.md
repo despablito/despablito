@@ -2,7 +2,7 @@
 
 ### Second-time founder. Former Deep-Tech CTO. I build the intelligence layer for physical systems.
 
-I spent 9 years turning a SpaceX Hyperloop competition entry into a 100M€ rail deep-tech company — from 0 to 60 engineers, €15M+ R&D budget and Europe's first passive magnetic levitation track. Then I sold my shares and started over.
+I spent 9 years turning a SpaceX Hyperloop competition entry into a €100M rail deep-tech company — from 0 to 60 engineers, €15M+ R&D budget and Europe's first passive magnetic levitation track. Then I sold my shares and started over.
 
 Now I'm building again — applying AI-native development to hard problems in energy, defense and industrial systems: my own ventures, selected collaborations and the occasional research sprint that saves someone a few million.
 
@@ -11,7 +11,7 @@ Now I'm building again — applying AI-native development to hard problems in en
 ### 🎯 What I actually do
 
 I'm a founder combining systems engineering with AI-native development — applying the same first-principles thinking I used to build hardware for extreme environments (Hyperloop, magnetic levitation) to software for physical systems.
-My background spans aerospace engineering, control systems, power electronics and safety-critical system design. 
+My background is hardware-deep — I came to AI from building systems that fail people if they fail, not the other way round.
 
 What I've learned: the hardest problems in deep tech aren't the physics — they're the intelligence layer that sits on top of it.
 
@@ -24,7 +24,7 @@ That gap is where I work.
 **Engineering foundation** (the domain knowledge under everything else)
 - Aerospace & space engineering — flight dynamics, guidance / navigation / control
 - Control systems, power electronics, safety-critical system design
-- *First-principles judgment for hardware in extreme environments — the lens that makes the AI above actually trustworthy*
+- *First-principles judgment for hardware in extreme environments — the lens the rest of this stack rests on*
 
 **Physics-aware AI**
 - PINNs (Physics-Informed Neural Networks), Neural ODEs
@@ -39,16 +39,18 @@ That gap is where I work.
 **AI-native development**
 - Claude Code, Cursor, MCP (Model Context Protocol)
 - Multi-agent research pipelines, automated code generation
+- *Agent-driven pipelines that compress months of build into weeks*
 
 **Full-stack (enough to ship)**
 - Python, TypeScript, Next.js, Supabase
 - MQTT, WebSockets, TimescaleDB — for real-time hardware data pipelines
+- *Enough product surface to take a prototype from raw sensor feed to shipped dashboard solo*
 
 ---
 
 ### 📫 Let's talk
 
-If you're building where software meets physical constraints — energy, robotics, industrial automation — I want to hear about it.
+If you're building where software meets physical constraints — energy, defense, robotics, industrial automation — I want to hear about it.
 
 - 💼 **LinkedIn:** [pawelradziszewski](https://www.linkedin.com/in/pawelradziszewski/)
 
