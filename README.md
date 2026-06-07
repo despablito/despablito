@@ -26,6 +26,11 @@ That gap is where I work.
 - JAX, PyTorch
 - *Virtual sensors, fast physics simulation, replacing classical FEA/CFD where it makes sense*
 
+**Interpretable decision systems** (where accountability is non-negotiable)
+- Bayesian networks, hidden Markov models, Monte-Carlo forecasting, optimisation-based allocation
+- Conformal prediction for calibrated, deferrable confidence
+- *Sovereign by architecture: air-gap-deployable, no SaaS dependency, deterministic and fully auditable — every recommendation carries a re-walkable reasoning chain*
+
 **AI-native development**
 - Claude Code, Cursor, MCP (Model Context Protocol)
 - Multi-agent research pipelines, automated code generation
