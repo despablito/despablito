@@ -1,59 +1,42 @@
 # Hi, I'm Paweł. 👋
 
-### Second-time founder. Former Deep-Tech CTO. I build the intelligence layer for physical systems.
+### Founder. Deep-tech engineer. Building the intelligence layer for physical systems.
 
-I spent 9 years turning a SpaceX Hyperloop competition entry into a €100M rail deep-tech company — from 0 to 60 engineers, €15M+ R&D budget and Europe's first passive magnetic levitation track. Then I sold my shares and started over.
+I’m CEO and co-founder of [PEAR Power](https://www.pear-power.com/), an R&D team building power electronics, drive systems and control software. Alongside that, I build simulation and decision-support tools for defense, energy and industrial systems.
 
-Now I'm building again — applying AI-native development to hard problems in energy, defense and industrial systems: my own ventures, selected collaborations and the occasional research sprint that saves someone a few million.
+Previously, I spent 9 years turning a SpaceX Hyperloop competition entry into a €100M rail deep-tech company — growing the engineering team from 0 to 60, managing €15M+ in R&D and building Europe’s first passive magnetic levitation track. Then I sold my shares and started again.
 
----
-
-### 🎯 What I actually do
-
-I'm a founder combining systems engineering with AI-native development — applying the same first-principles thinking I used to build hardware for extreme environments (Hyperloop, magnetic levitation) to software for physical systems.
-My background is hardware-deep — I came to AI from building systems that fail people if they fail, not the other way round.
-
-What I've learned: the hardest problems in deep tech aren't the physics — they're the intelligence layer that sits on top of it.
-
-That gap is where I work.
+During my studies, I collaborated with Lockheed Martin on **OpUSS — Optimization of Unmanned System of Systems**, working on search and tracking algorithms for cooperating unmanned aircraft.
 
 ---
 
-### 🛠️ Stack (what I actually use)
+### 🎯 What I’m building now
 
-**Engineering foundation** (the domain knowledge under everything else)
-- Aerospace & space engineering — flight dynamics, guidance / navigation / control
-- Control systems, power electronics, safety-critical system design
-- *First-principles judgment for hardware in extreme environments — the lens the rest of this stack rests on*
+- **Simulation & testing** — physics-based worlds for independently testing decision systems.
+- **Decision support** — interpretable recommendations, explicit uncertainty and replayable evidence.
+- **Operational tools** — offline-capable situational awareness connecting people, sensors and systems.
 
-**Physics-aware AI**
-- PINNs (Physics-Informed Neural Networks), Neural ODEs
-- JAX, PyTorch
-- *Virtual sensors, fast physics simulation, replacing classical FEA/CFD where it makes sense*
+### 🧭 How I work
 
-**Interpretable decision systems** (where accountability is non-negotiable)
-- Bayesian networks, hidden Markov models, Monte-Carlo forecasting, optimisation-based allocation
-- Conformal prediction for calibrated, deferrable confidence
-- *Sovereign by architecture: air-gap-deployable, no SaaS dependency, deterministic and fully auditable — every recommendation carries a re-walkable reasoning chain*
+My background is in hardware, control systems and engineering under physical constraints. I bring that discipline to software: explicit assumptions, reproducible experiments and a clear distinction between what a model predicts and what the evidence supports.
 
-**AI-native development**
-- Claude Code, Cursor, MCP (Model Context Protocol)
-- Multi-agent research pipelines, automated code generation
-- *Agent-driven pipelines that compress months of build into weeks*
-
-**Full-stack (enough to ship)**
-- Python, TypeScript, Next.js, Supabase
-- MQTT, WebSockets, TimescaleDB — for real-time hardware data pipelines
-- *Enough product surface to take a prototype from raw sensor feed to shipped dashboard solo*
+A central principle: **the system making a recommendation should not also define the truth used to judge it.**
 
 ---
 
-### 📫 Let's talk
+### 🛠️ Stack & methods
 
-If you're building where software meets physical constraints — energy, defense, robotics, industrial automation — I want to hear about it.
+- **Engineering:** aerospace systems, guidance/navigation/control, power electronics and safety-critical design.
+- **Modeling & simulation:** physics-based models, Monte Carlo, sensitivity analysis, PINNs and Neural ODEs.
+- **Decision systems:** Bayesian networks, hidden Markov models, constrained optimization and uncertainty quantification.
+- **AI-native development:** coding agents, MCP, multi-agent research and automated testing.
+- **Software:** Python, TypeScript, Rust, Next.js, JAX and PyTorch.
 
+---
+
+### 📫 Let’s talk
+
+If you’re building where software meets physical constraints — energy, defense, robotics or industrial automation — I’d like to hear from you.
+
+- ⚡ **PEAR Power:** [pear-power.com](https://www.pear-power.com/)
 - 💼 **LinkedIn:** [pawelradziszewski](https://www.linkedin.com/in/pawelradziszewski/)
-
----
-
-> *Hardware is hard. The software for it doesn't have to be.*
