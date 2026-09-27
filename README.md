@@ -20,8 +20,6 @@ During my studies, I collaborated with Lockheed Martin on **OpUSS — Optimizati
 
 My foundation is in aerospace engineering, with a focus on control systems and aerodynamics. I bring that discipline to software: explicit assumptions, reproducible experiments and a clear distinction between what a model predicts and what the evidence supports.
 
-A central principle: **the system making a recommendation should not also define the truth used to judge it.**
-
 ---
 
 ### 🛠️ Stack & methods
