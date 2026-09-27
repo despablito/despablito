@@ -2,7 +2,7 @@
 
 ### Founder. Deep-tech engineer. Building the intelligence layer for physical systems.
 
-I’m an aerospace engineer by training, and CEO and co-founder of [PEAR Power](https://www.pear-power.com/), an R&D team building power electronics, drive systems and control software. Alongside that, I build simulation and decision-support tools for defense, energy and industrial systems.
+I’m CEO and co-founder of [PEAR Power](https://www.pear-power.com/), an R&D team building power electronics, drive systems and control software. Alongside that, I build simulation and decision-support tools for defense, energy and industrial systems.
 
 Previously, I spent 9 years turning a SpaceX Hyperloop competition entry into a €100M rail deep-tech company — growing the engineering team from 0 to 60, managing €15M+ in R&D and building Europe’s first passive magnetic levitation track. Then I sold my shares and started again.
 
@@ -18,7 +18,7 @@ During my studies, I collaborated with Lockheed Martin on **OpUSS — Optimizati
 
 ### 🧭 How I work
 
-My background is in hardware, control systems and engineering under physical constraints. I bring that discipline to software: explicit assumptions, reproducible experiments and a clear distinction between what a model predicts and what the evidence supports.
+My foundation is in aerospace engineering, with hands-on experience in hardware and control systems. I bring that discipline to software: explicit assumptions, reproducible experiments and a clear distinction between what a model predicts and what the evidence supports.
 
 A central principle: **the system making a recommendation should not also define the truth used to judge it.**
 
