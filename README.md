@@ -2,7 +2,7 @@
 
 ### Founder. Deep-tech engineer. Building the intelligence layer for physical systems.
 
-I’m CEO and co-founder of [PEAR Power](https://www.pear-power.com/), an R&D team building power electronics, drive systems and control software. Alongside that, I build simulation and decision-support tools for defense, energy and industrial systems.
+I’m an aerospace engineer by training, and CEO and co-founder of [PEAR Power](https://www.pear-power.com/), an R&D team building power electronics, drive systems and control software. Alongside that, I build simulation and decision-support tools for defense, energy and industrial systems.
 
 Previously, I spent 9 years turning a SpaceX Hyperloop competition entry into a €100M rail deep-tech company — growing the engineering team from 0 to 60, managing €15M+ in R&D and building Europe’s first passive magnetic levitation track. Then I sold my shares and started again.
 
