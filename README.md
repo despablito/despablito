@@ -4,7 +4,7 @@
 
 I’m CEO and co-founder of [PEAR Power](https://www.pear-power.com/), an R&D team building power electronics, drive systems and control software. Alongside that, I build simulation and decision-support tools for defense, energy and industrial systems.
 
-Previously, I spent 9 years turning a SpaceX Hyperloop competition entry into a €100M rail deep-tech company — growing the engineering team from 0 to 60, managing €15M+ in R&D and building Europe’s first passive magnetic levitation track. Then I sold my shares and started again.
+Previously, I spent 9 years turning a SpaceX Hyperloop competition entry into **Nevomo (former Hyper Poland)** — a €100M rail deep-tech company — growing the engineering team from 0 to 60, managing €15M+ in R&D and building Europe’s first passive magnetic levitation track. Then I sold my shares and started again.
 
 During my studies, I collaborated with Lockheed Martin on **OpUSS — Optimization of Unmanned System of Systems**, working on search and tracking algorithms for cooperating unmanned aircraft.
 
